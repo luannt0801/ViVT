@@ -1,0 +1,8 @@
+torch
+numpy
+tqdm
+tensorboard
+ml-collections
+einops
+decord
+scipy==1.9.3
